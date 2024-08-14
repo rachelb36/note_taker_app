@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Go to Hardware Store","text":"Need paint and brushes","id":"04d8a4b0-cf95-4570-a21c-32fbfece5a67"},{"title":"Call Bank","text":"Order replacement debit card","id":"fdbbe2a9-c200-4c3d-b54d-9d30263dbd06"},{"title":"Go to Pet Store","text":"Dog food and dog shampoo","id":"5d9b0b39-b37a-4fb0-a52c-fb439aebf4b2"},{"title":"Go to UPS","text":"Send birthday gift to Robert","id":"8f21ea2e-f094-49dc-afe1-83ed35404507"},{"title":"Gather Donations","text":"Drop off at Goodwill","id":"3c2b8c8e-7d08-46c0-a8ee-7d117f1809aa"},{"title":"Finish Projects","text":"Challenges are late","id":"6387cb8d-b6ec-4183-84bc-01ee00d5bc1b"}]
